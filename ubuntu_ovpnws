@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='69.10.38.124';
-USER='hmbuildx_masternetvpn';
+USER='hmbuildx_ahvipvpn';
 PASS='VpnPanel7519';
-DBNAME='hmbuildx_masternetvpn';
+DBNAME='hmbuildx_ahvipvpn';
 PORT_TCP='1194';
 PORT_UDP='53';
 
