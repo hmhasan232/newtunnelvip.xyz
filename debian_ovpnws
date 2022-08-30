@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Variables
-HOST='69.10.38.124';
+HOST='209.159.152.66';
 USER='hmbuildx_bestvipnew';
 PASS='VpnPanel7519';
 DBNAME='hmbuildx_bestvipnew';
