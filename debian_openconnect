@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='69.10.38.124';
+USER='hmbuildx_bestvipnew';
+PASS='VpnPanel7519';
+DBNAME='hmbuildx_bestvipnew';
+PORT_TCP='1194';
+PORT_UDP='None';
+404: Not Found
